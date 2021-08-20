@@ -26,9 +26,9 @@
 
 ---
 
-## Microeconometrics: Survival analysis
+## Microeconometrics
 
-**Module Description**:
+**Module Description**: _The module focuses on applying Event History Analysis based on registrydata to solve socioeconomic problems. The student is introduced to different survival analysis models and taught to apply these with the use of SAS.
 
 - [5-day exam](/pdf/microeconometrics.pdf)
 
