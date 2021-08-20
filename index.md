@@ -10,7 +10,6 @@
 ## Network Analysis and Natural Language Processing
 
 - [Assignment 1](/pdf/M2A1.html)
-
 - [Assignment 2](/pdf/M2A2.html)
 
 ---
