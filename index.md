@@ -2,22 +2,19 @@
 
 ---
 
-### Category Name 1 
+### Applied Data Science and Machine Learning
 
-[Project 1 Title](/pdf/M2A1.html)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+[Assignment 1](/pdf/M1A1.html)
 ---
-[Project 2 Title](/pdf/microeconometrics.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
+### Network Analysis and Natural Language Processing
+[Assignment 1](/pdf/M2A1.html)
+[Assignment 2](/pdf/M2A2.html)
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+### Deep Learning and Artificial Intelligence for Analytics
+[Assignment 1](/pdf/M3A1.html)
 
----
-
-### Category Name 2
+### Microeconometrics: Survival analysis
+[5-day exam](/pdf/microeconometrics.pdf)
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
@@ -31,5 +28,4 @@
 
 
 ---
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
+
